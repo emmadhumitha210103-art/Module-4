@@ -21,8 +21,8 @@ To write a Python program to take the radius from the user and find the area of 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060100
-# Name- Jothivanan T
+# Reg.No- 212222095002
+# Name- Madhumitha E M
 import math
 class pen:
     def stationary(self, r):
